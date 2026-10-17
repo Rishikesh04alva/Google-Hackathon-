@@ -1,0 +1,8 @@
+{
+  "name": "CashFlow™ Autonomous Trade Escrow & Analytics",
+  "description": "Institutional autonomous cross-border receivables, cryptographically verified trade escrows, expenditure tracking dashboard, shipment release code portal, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
